@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-9](https://github.com/user-attachments/assets/62cd5af8-c493-4076-bde8-8261e5433ca4)
 
 ## 🥁 CarnaCode 2026 - Desafio 21 - Strategy
 
